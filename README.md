@@ -1,8 +1,22 @@
+<p align="center">
+    <a href="https://www.hackerrank.com/ankitech">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+    <br>320 efficient solutions to HackerRank problems
+</p>
+
 # [Code solutions](https://github.com/ankitech/practice_sites_code)
 
 This repository is for all the codes i practice on different coding sites.
 
-## [CODEWARS - ankitech](https://www.codewars.com/users/ankitech) 
+
+* [Codewars](#Codewars)
+*
+*
+*
+*
+# Codewars 
+[CODEWARS - ankitech](https://www.codewars.com/users/ankitech) 
 `Package: com.ankitech.codewars`
 1. [Duplicate Encoder](http://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java) - `DuplicateEncoder.java, DuplicateEncoderTest.java`
 _**[Code checkout](https://github.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
