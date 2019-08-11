@@ -4,15 +4,21 @@
 
 This repository is for all the codes i practice on different coding sites.
 
+* [Code Wars](#Codewars)
+* [Hacker Rank](#HackerRank)
+* [ROSALIND](#ROSALIND)
+* [Coder Byte](#CoderByte)
+* [Leet Code](#LeetCode)
+* [Tech GIG](#TechGig)
+* [Hacker Earth](#HackerEarth)
+* [Code Abbey](#CodeAbbey)
+* [Codility](#Codility)
+* [Code Kata](#CodeKata)
+* [ProjectEuler](#ProjectEuler) 
 
-* [Codewars](#Codewars)
-* [Hacker Rank](#Hacker Rank)
-*
-*
-*
+
 # Codewars 
-[CODEWARS - ankitech](https://www.codewars.com/users/ankitech) 
-<p align="center">
+<p align="left">
     <a href="https://www.codewars.com/users/ankitech">
         <img height=85 src="https://i.imgur.com/hL1UjJW.png">
     </a>
@@ -22,12 +28,12 @@ This repository is for all the codes i practice on different coding sites.
 
 |Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | [Duplicate Encoder](http://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java) | 5 | [DuplicateEncoder.java](), [DuplicateEncoderTest.java]()
-| 2. | [Get the Middle Character](http://www.codewars.com/kata/56747fd5cb988479af000028/train/java) | 4 | [MiddleCharacter.java](), [MiddleCharacterTest.java]()
-| 3. | [Money, Money, Money](http://www.codewars.com/kata/563f037412e5ada593000114/train/java) | 4 | [Money.java](), [MoneyTest.java]()
+| 1. | [Duplicate Encoder](http://www.codewars.com/kata/54b42f9314d9229fd6000d9c/train/java) | 5 | [DuplicateEncoder.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/DuplicateEncoder.java), [DuplicateEncoderTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/DuplicateEncoderTest.java)
+| 2. | [Get the Middle Character](http://www.codewars.com/kata/56747fd5cb988479af000028/train/java) | 4 | [MiddleCharacter.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MiddleCharacter.java), [MiddleCharacterTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MiddleCharacterTest.java)
+| 3. | [Money, Money, Money](http://www.codewars.com/kata/563f037412e5ada593000114/train/java) | 4 | [Money.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/Money.java), [MoneyTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MoneyTest.java)
 
-# Hacker Rank
-<p align="center">
+# HackerRank
+<p align="left">
     <a href="https://www.hackerrank.com/ankitech">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
@@ -40,40 +46,130 @@ This repository is for all the codes i practice on different coding sites.
 |---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
+# ROSALIND
+<p align="left">
+    <a href="http://rosalind.info/users/ankitech/">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
 
-## [ROSALIND - ankitech](http://rosalind.info/users/ankitech/)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
 
-## [Coder Byte - ankitech](https://coderbyte.com/profile/ankitech)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
+`Package: com.ankitech.rosalind`
 
-## [Leet Code- ankitech](https://leetcode.com/ankitech/)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
-## [TechGIG - ankitech](https://www.techgig.com/ankitech)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
+# CoderByte
+<p align="left">
+    <a href="https://coderbyte.com/profile/ankitech">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
 
-## [Hacker Earth - kumar ankit](https://www.hackerearth.com/@kumar1001)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
 
-## [Code Abbey - kumar ankit](https://www.codeabbey.com/index/user_profile/kumar-ankit)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
+`Package: com.ankitech.coderbyte`
 
-## [Codility](https://app.codility.com/programmers/)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
-## [CodeKata](http://codekata.com/)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
+# LeetCode
+<p align="left">
+    <a href="https://leetcode.com/ankitech/">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
 
-## [Project Euler](https://projecteuler.net/)
-1. [Dummy](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) - 
-_**[Code checkout](https://dummy.com/ankit``ech/practice_sites_code/commit/a2e724d8fb09f637b4a476d165a642df8b5ea0cd)**_
+
+`Package: com.ankitech.leetcode`
+
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+
+# TechGig
+<p align="left">
+    <a href="https://www.techgig.com/ankitech">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
+
+
+`Package: com.ankitech.techgig`
+
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+
+# HackerEarth
+<p align="left">
+    <a href="https://www.hackerearth.com/@kumar1001">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
+
+
+`Package: com.ankitech.hackerearth`
+
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+
+# CodeAbbey
+<p align="left">
+    <a href="https://www.codeabbey.com/index/user_profile/kumar-ankit">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
+
+
+`Package: com.ankitech.codeabbey`
+
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+
+# Codility
+<p align="left">
+    <a href="https://app.codility.com/programmers/">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
+
+
+`Package: com.ankitech.codility`
+
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+
+# CodeKata
+<p align="left">
+    <a href="http://codekata.com/">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
+
+
+`Package: com.ankitech.codekata`
+
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+
+# ProjectEuler
+<p align="left">
+    <a href="https://projecteuler.net/">
+        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+    </a>
+</p>
+
+
+`Package: com.ankitech.projecteuler`
+
+|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
+|---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+
 
