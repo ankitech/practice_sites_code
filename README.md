@@ -49,7 +49,7 @@ This repository is for all the codes i practice on different coding sites.
 # ROSALIND
 <p align="left">
     <a href="http://rosalind.info/users/ankitech/">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="http://rosalind.info/static/img/logo.png?v=1560257990">
     </a>
 </p>
 
@@ -63,7 +63,7 @@ This repository is for all the codes i practice on different coding sites.
 # CoderByte
 <p align="left">
     <a href="https://coderbyte.com/profile/ankitech">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://i.imgur.com/55ra44N.png">
     </a>
 </p>
 
@@ -77,7 +77,7 @@ This repository is for all the codes i practice on different coding sites.
 # LeetCode
 <p align="left">
     <a href="https://leetcode.com/ankitech/">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://i.imgur.com/qk3Lhdv.png">
     </a>
 </p>
 
@@ -91,7 +91,7 @@ This repository is for all the codes i practice on different coding sites.
 # TechGig
 <p align="left">
     <a href="https://www.techgig.com/ankitech">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://static.techgig.com/Themes/Release/images/tg_images_new/tech-gig-sml.svg">
     </a>
 </p>
 
@@ -105,7 +105,7 @@ This repository is for all the codes i practice on different coding sites.
 # HackerEarth
 <p align="left">
     <a href="https://www.hackerearth.com/@kumar1001">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://i.imgur.com/0XCaSuQ.png">
     </a>
 </p>
 
@@ -119,7 +119,7 @@ This repository is for all the codes i practice on different coding sites.
 # CodeAbbey
 <p align="left">
     <a href="https://www.codeabbey.com/index/user_profile/kumar-ankit">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=200 src="http://www.codeabbey.com/img/facade.gif">
     </a>
 </p>
 
@@ -133,7 +133,7 @@ This repository is for all the codes i practice on different coding sites.
 # Codility
 <p align="left">
     <a href="https://app.codility.com/programmers/">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://i.imgur.com/Ulga7C7.png">
     </a>
 </p>
 
@@ -147,7 +147,7 @@ This repository is for all the codes i practice on different coding sites.
 # CodeKata
 <p align="left">
     <a href="http://codekata.com/">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://i.imgur.com/sQlZ5Tx.jpg">
     </a>
 </p>
 
@@ -161,7 +161,7 @@ This repository is for all the codes i practice on different coding sites.
 # ProjectEuler
 <p align="left">
     <a href="https://projecteuler.net/">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img height=85 src="https://i.imgur.com/hIs7ZR4.png">
     </a>
 </p>
 
