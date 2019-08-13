@@ -47,7 +47,7 @@ This repository is for all the codes i practice on different coding sites.
 
 |Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+| 1. | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | 20 | [UsernameValidator.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/UsernameValidator.java), [UsernameValidatorTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/UsernameValidatorTest.java)
 
 # ROSALIND
 <p align="left">
