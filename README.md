@@ -32,6 +32,7 @@ This repository is for all the codes i practice on different coding sites.
 | 2. | [Get the Middle Character](http://www.codewars.com/kata/56747fd5cb988479af000028/train/java) | 2 | [MiddleCharacter.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MiddleCharacter.java), [MiddleCharacterTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MiddleCharacterTest.java)
 | 3. | [Money, Money, Money](http://www.codewars.com/kata/563f037412e5ada593000114/train/java) | 2 | [Money.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/Money.java), [MoneyTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MoneyTest.java)
 | 4. | [Disemvowel Trolls](http://www.codewars.com/kata/52fba66badcd10859f00097e/train/java) | 2 | [Troll.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/Troll.java), [TrollTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/TrollTest.java)
+| 5. | [Shortest Word](http://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java) | 2 | [ShortestWord.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/ShortestWord.java), [ShortestWordTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/ShortestWordTest.java)
 
 # HackerRank
 <p align="left">
