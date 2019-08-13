@@ -48,6 +48,7 @@ This repository is for all the codes i practice on different coding sites.
 |Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |---:|:--------------------------------------------------------------------------------------------------------------------------|------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1. | [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem) | 20 | [UsernameValidator.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/UsernameValidator.java), [UsernameValidatorTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/UsernameValidatorTest.java)
+| 2. | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | 20 | [IPaddressValidation.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/IPaddressValidation.java), [IPaddressValidationTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/IPaddressValidationTest.java)
 
 # ROSALIND
 <p align="left">
