@@ -52,6 +52,7 @@ This repository is for all the codes i practice on different coding sites.
 | 3. | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | 20 | [LeftRotation.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/LeftRotation.java), [LeftRotationTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/LeftRotationTest.java)
 | 4. | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | 20 | [PrimeCheck.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/PrimeCheck.java), [PrimeCheckTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/PrimeCheckTest.java)
 | 5. | [Arrays - Reverse string](https://www.hackerrank.com/challenges/arrays-ds/problem) | 20 | [ReverseArray.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ReverseArray.java), [ReverseArrayTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ReverseArrayTest.java)
+| 6. | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | 10 | [SockMerchant.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/SockMerchant.java), [SockMerchantTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/SockMerchantTest.java)
 
 # ROSALIND
 <p align="left">
