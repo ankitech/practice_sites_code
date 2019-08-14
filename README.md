@@ -53,6 +53,7 @@ This repository is for all the codes i practice on different coding sites.
 | 4. | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | 20 | [PrimeCheck.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/PrimeCheck.java), [PrimeCheckTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/PrimeCheckTest.java)
 | 5. | [Arrays - Reverse string](https://www.hackerrank.com/challenges/arrays-ds/problem) | 20 | [ReverseArray.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ReverseArray.java), [ReverseArrayTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ReverseArrayTest.java)
 | 6. | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem) | 10 | [SockMerchant.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/SockMerchant.java), [SockMerchantTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/SockMerchantTest.java)
+| 7. | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 20 | [Triplet.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/Triplet.java), [TripletTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/TripletTest.java)
 
 # ROSALIND
 <p align="left">
