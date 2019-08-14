@@ -51,6 +51,7 @@ This repository is for all the codes i practice on different coding sites.
 | 2. | [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem) | 20 | [IPaddressValidation.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/IPaddressValidation.java), [IPaddressValidationTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/IPaddressValidationTest.java)
 | 3. | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem) | 20 | [LeftRotation.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/LeftRotation.java), [LeftRotationTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/LeftRotationTest.java)
 | 4. | [Java Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem) | 20 | [PrimeCheck.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/PrimeCheck.java), [PrimeCheckTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/PrimeCheckTest.java)
+| 5. | [Arrays - Reverse string](https://www.hackerrank.com/challenges/arrays-ds/problem) | 20 | [ReverseArray.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ReverseArray.java), [ReverseArrayTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ReverseArrayTest.java)
 
 # ROSALIND
 <p align="left">
