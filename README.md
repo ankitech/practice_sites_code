@@ -35,6 +35,7 @@ This repository is for all the codes i practice on different coding sites.
 | 5. | [Shortest Word](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9/train/java) | 2 | [ShortestWord.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/ShortestWord.java), [ShortestWordTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/ShortestWordTest.java)
 | 6. | [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/solutions/java) | 2 | [MorseCodeDecoder.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MorseCodeDecoder.java), [MorseCodeDecoderTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MorseCodeDecoderTest.java)
 | 7. | [Help the bookseller !](http://www.codewars.com/kata/54dc6f5a224c26032800005c/train/java) | 2 | [StockList.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/StockList.java), [StockListTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/StockListTest.java)
+| 8. | [Mexican Wave](http://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/java) | 2 | [MexicanWave.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MexicanWave.java), [MexicanWaveTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MexicanWaveTest.java)
 
 # HackerRank
 <p align="left">
