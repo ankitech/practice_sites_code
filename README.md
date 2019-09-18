@@ -36,6 +36,7 @@ This repository is for all the codes i practice on different coding sites.
 | 6. | [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e/solutions/java) | 2 | [MorseCodeDecoder.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MorseCodeDecoder.java), [MorseCodeDecoderTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MorseCodeDecoderTest.java)
 | 7. | [Help the bookseller !](http://www.codewars.com/kata/54dc6f5a224c26032800005c/train/java) | 2 | [StockList.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/StockList.java), [StockListTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/StockListTest.java)
 | 8. | [Mexican Wave](http://www.codewars.com/kata/58f5c63f1e26ecda7e000029/train/java) | 2 | [MexicanWave.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MexicanWave.java), [MexicanWaveTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/MexicanWaveTest.java)
+| 9. | [Valid Braces](http://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/java) | 2 | [BraceChecker.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/BraceChecker.java), [BraceCheckerTest.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/BraceCheckerTest.java)
 
 # HackerRank
 <p align="left">
