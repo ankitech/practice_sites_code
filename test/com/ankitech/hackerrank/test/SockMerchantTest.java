@@ -1,5 +1,6 @@
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.test;
 
+import com.ankitech.hackerrank.src.SockMerchant;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

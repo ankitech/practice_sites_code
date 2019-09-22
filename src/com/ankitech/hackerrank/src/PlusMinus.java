@@ -38,15 +38,15 @@ The proportions of occurrence are positive: , negative:  and zeros: .
 https://www.hackerrank.com/challenges/plus-minus/problem
 */
 
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.src;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 
-class PlusMinus {
+public class PlusMinus {
 
-    static double[] plusMinus(int[] arr) {
+    public static double[] plusMinus(int[] arr) {
         List<Double> result = new ArrayList<>();
         DecimalFormat df = new DecimalFormat();
         df.setMaximumFractionDigits(6);

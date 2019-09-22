@@ -45,8 +45,9 @@ https://www.hackerrank.com/challenges/diagonal-difference/problem
 
 */
 
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.test;
 
+import com.ankitech.hackerrank.src.DiagonalDifference;
 import org.junit.Test;
 
 import java.util.Arrays;

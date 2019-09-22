@@ -1,9 +1,9 @@
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.src;
 
 import java.util.List;
 
-class DiagonalDifference {
-     static int calculateDifference(List<List<Integer>> arr) {
+public class DiagonalDifference {
+     public static int calculateDifference(List<List<Integer>> arr) {
 
         int matrixSize = arr.size();
         int leftDiagonal = 0;

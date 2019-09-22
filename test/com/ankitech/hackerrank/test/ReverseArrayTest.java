@@ -1,8 +1,9 @@
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.test;
 
+import com.ankitech.hackerrank.src.ReverseArray;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertArrayEquals;
 
 public class ReverseArrayTest {
 

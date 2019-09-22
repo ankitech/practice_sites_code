@@ -9,13 +9,13 @@ Sample Output
 https://www.hackerrank.com/challenges/sock-merchant/problem
 */
 
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.src;
 
 import java.util.HashMap;
 import java.util.Map;
 
-class SockMerchant {
-    static int countSock(int[] arr) {
+public class SockMerchant {
+    public static int countSock(int[] arr) {
         Map<Integer, Integer> socks = new HashMap<>();
         int pairs = 0;
         for (int color : arr) {

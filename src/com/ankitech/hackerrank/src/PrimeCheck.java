@@ -28,13 +28,13 @@ https://www.hackerrank.com/challenges/java-primality-test/problem
 
 */
 
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.src;
 
 import java.math.BigInteger;
 
-class PrimeCheck {
+public class PrimeCheck {
 
-    static boolean isPrime(int n){
+    public static boolean isPrime(int n){
         BigInteger number = new BigInteger(String.valueOf(n));
         return number.isProbablePrime(1);
     }

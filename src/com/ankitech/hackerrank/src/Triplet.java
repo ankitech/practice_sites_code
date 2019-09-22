@@ -38,14 +38,14 @@ https://www.hackerrank.com/challenges/compare-the-triplets/problem
 
 */
 
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.src;
 
 import java.util.Arrays;
 import java.util.List;
 
-class Triplet {
+public class Triplet {
 
-    static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
+    public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
 
         int aliceScore = 0;
         int johnScore = 0;

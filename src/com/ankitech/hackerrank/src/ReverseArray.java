@@ -6,14 +6,14 @@ Given an array, , of  integers, print each element in reverse order as a single 
 https://www.hackerrank.com/challenges/arrays-ds/problem
 
 */
-package com.ankitech.hackerrank;
+package com.ankitech.hackerrank.src;
 
 import java.util.ArrayList;
 import java.util.List;
 
-class ReverseArray {
+public class ReverseArray {
 
-    static int[] reverese(int[] a){
+    public static int[] reverese(int[] a){
         List<Integer> reverseArr = new ArrayList<>();
         for (int i = a.length - 1; i >= 0; i--) {
             reverseArr.add(a[i]);
