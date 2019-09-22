@@ -38,9 +38,9 @@ false
 */
 
 
-package com.ankitech.hackerrank.src;
+package com.ankitech.hackerrank;
 
-public class IPaddressValidation {
+class IPaddressValidation {
 
     private static final String regularExpression =
             "^([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
@@ -48,7 +48,7 @@ public class IPaddressValidation {
             "([01]?\\d\\d?|2[0-4]\\d|25[0-5])\\." +
             "([01]?\\d\\d?|2[0-4]\\d|25[0-5])$";
 
-    public static boolean validate(String userName){
+    static boolean validate(String userName){
         return userName.matches(IPaddressValidation.regularExpression);
     }
 }

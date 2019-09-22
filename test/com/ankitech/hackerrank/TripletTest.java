@@ -1,6 +1,5 @@
-package com.ankitech.hackerrank.test;
+package com.ankitech.hackerrank;
 
-import com.ankitech.hackerrank.src.Triplet;
 import org.junit.Test;
 
 import java.util.Arrays;

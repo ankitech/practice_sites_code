@@ -30,11 +30,11 @@ When we perform  left rotations, the array undergoes the following sequence of c
 Thus, we print the array's final state as a single line of space-separated values, which is 5 1 2 3 4.
 */
 
-package com.ankitech.hackerrank.src;
+package com.ankitech.hackerrank;
 
-public class LeftRotation {
+class LeftRotation {
 
-    public static int[] leftRotate(int[] arr, int rotations) {
+    static int[] leftRotate(int[] arr, int rotations) {
         int[] newArr = new int[arr.length];
         rotations=rotations%newArr.length;
         boolean secondPart = true;

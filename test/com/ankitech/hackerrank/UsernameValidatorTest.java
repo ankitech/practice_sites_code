@@ -1,6 +1,5 @@
-package com.ankitech.hackerrank.test;
+package com.ankitech.hackerrank;
 
-import com.ankitech.hackerrank.src.UsernameValidator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;

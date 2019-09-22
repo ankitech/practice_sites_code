@@ -60,13 +60,13 @@ https://www.hackerrank.com/challenges/valid-username-checker/problem
 
 */
 
-package com.ankitech.hackerrank.src;
+package com.ankitech.hackerrank;
 
-public class UsernameValidator {
+class UsernameValidator {
 
     private static final String regularExpression = "^[a-zA-Z][a-zA-Z0-9_]{7,29}$";
 
-    public static boolean validate(String userName){
+    static boolean validate(String userName){
         return userName.matches(UsernameValidator.regularExpression);
     }
 }
