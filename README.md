@@ -59,6 +59,7 @@ This repository is for all the codes i practice on different coding sites.
 | 7. | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | 20 | [Triplet.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/Triplet.java), [TripletTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/TripletTest.java)
 | 8. | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | 10 | [DiagonalDifference.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/DiagonalDifference.java), [DiagonalDifferenceTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/DiagonalDifferenceTest.java)
 | 9. | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | 10 | [PlusMinus.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/PlusMinus.java), [PlusMinusTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/PlusMinusTest.java)
+| 10. | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Staircase.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/Staircase.java), [StaircaseTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/StaircaseTest.java)
 
 # ROSALIND
 <p align="left">
