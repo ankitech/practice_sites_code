@@ -62,6 +62,7 @@ This repository is for all the codes i practice on different coding sites.
 | 10. | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | 10 | [Staircase.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/Staircase.java), [StaircaseTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/StaircaseTest.java)
 | 11. | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [MinMaxSum.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/MinMaxSum.java), [MinMaxSumTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/MinMaxSumTest.java)
 | 12. | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [BirthdayCandles.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/BirthdayCandles.java), [BirthdayCandlesTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/BirthdayCandlesTest.java)
+| 13. | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 10 | [TimeCoversion.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/TimeCoversion.java), [TimeCoversionTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/TimeCoversionTest.java)
 
 # ROSALIND
 <p align="left">
