@@ -63,6 +63,7 @@ This repository is for all the codes i practice on different coding sites.
 | 11. | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | 10 | [MinMaxSum.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/MinMaxSum.java), [MinMaxSumTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/MinMaxSumTest.java)
 | 12. | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | 10 | [BirthdayCandles.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/BirthdayCandles.java), [BirthdayCandlesTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/BirthdayCandlesTest.java)
 | 13. | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | 10 | [TimeCoversion.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/TimeCoversion.java), [TimeCoversionTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/TimeCoversionTest.java)
+| 14. | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | 10 | [GradingStudent.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/GradingStudent.java), [GradingStudentTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/GradingStudentTest.java)
 
 # ROSALIND
 <p align="left">
