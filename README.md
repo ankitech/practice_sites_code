@@ -18,9 +18,9 @@ This repository is for all the codes i practice on different coding sites.
 
 
 # Codewars 
-<p align="left">
+<p style="float:left">
     <a href="https://www.codewars.com/users/ankitech">
-        <img height=85 src="https://i.imgur.com/hL1UjJW.png">
+        <img alt="" height=85 src="https://i.imgur.com/hL1UjJW.png">
     </a>
 </p>
 
@@ -39,9 +39,9 @@ This repository is for all the codes i practice on different coding sites.
 | 9. | [Valid Braces](http://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/java) | 2 | [BraceChecker.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/codewars/BraceChecker.java), [BraceCheckerTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/codewars/BraceCheckerTest.java)
 
 # HackerRank
-<p align="left">
+<p style="float:left">
     <a href="https://www.hackerrank.com/ankitech">
-        <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
+        <img alt="" height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
 </p>
 
@@ -70,9 +70,9 @@ This repository is for all the codes i practice on different coding sites.
 | 18. | [ElectronicShop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 10 | [ElectronicShop.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ElectronicShop.java), [ElectronicShopTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/ElectronicShopTest.java)
 
 # ROSALIND
-<p align="left">
+<p style="float:left">
     <a href="http://rosalind.info/users/ankitech/">
-        <img height=85 src="http://rosalind.info/static/img/logo.png?v=1560257990">
+        <img alt="" height=85 src="http://rosalind.info/static/img/logo.png?v=1560257990">
     </a>
 </p>
 
@@ -84,9 +84,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # CoderByte
-<p align="left">
+<p style="float:left">
     <a href="https://coderbyte.com/profile/ankitech">
-        <img height=85 src="https://i.imgur.com/55ra44N.png">
+        <img alt="" height=85 src="https://i.imgur.com/55ra44N.png">
     </a>
 </p>
 
@@ -98,9 +98,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # LeetCode
-<p align="left">
+<p style="float:left">
     <a href="https://leetcode.com/ankitech/">
-        <img height=85 src="https://i.imgur.com/qk3Lhdv.png">
+        <img alt="" height=85 src="https://i.imgur.com/qk3Lhdv.png">
     </a>
 </p>
 
@@ -112,9 +112,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # TechGig
-<p align="left">
+<p style="float:left">
     <a href="https://www.techgig.com/ankitech">
-        <img height=85 src="https://static.techgig.com/Themes/Release/images/tg_images_new/tech-gig-sml.svg">
+        <img alt="" height=85 src="https://static.techgig.com/Themes/Release/images/tg_images_new/tech-gig-sml.svg">
     </a>
 </p>
 
@@ -126,9 +126,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # HackerEarth
-<p align="left">
+<p style="float:left">
     <a href="https://www.hackerearth.com/@kumar1001">
-        <img height=85 src="https://i.imgur.com/0XCaSuQ.png">
+        <img alt="" height=85 src="https://i.imgur.com/0XCaSuQ.png">
     </a>
 </p>
 
@@ -140,9 +140,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # CodeAbbey
-<p align="left">
+<p style="float:left">
     <a href="https://www.codeabbey.com/index/user_profile/kumar-ankit">
-        <img height=200 src="http://www.codeabbey.com/img/facade.gif">
+        <img alt="" height=200 src="http://www.codeabbey.com/img/facade.gif">
     </a>
 </p>
 
@@ -154,9 +154,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # Codility
-<p align="left">
+<p style="float:left">
     <a href="https://app.codility.com/programmers/">
-        <img height=85 src="https://i.imgur.com/Ulga7C7.png">
+        <img alt="" height=85 src="https://i.imgur.com/Ulga7C7.png">
     </a>
 </p>
 
@@ -168,9 +168,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # CodeKata
-<p align="left">
+<p style="float:left">
     <a href="http://codekata.com/">
-        <img height=85 src="https://i.imgur.com/sQlZ5Tx.jpg">
+        <img alt="" height=85 src="https://i.imgur.com/sQlZ5Tx.jpg">
     </a>
 </p>
 
@@ -182,9 +182,9 @@ This repository is for all the codes i practice on different coding sites.
 | 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) | 0 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
 
 # ProjectEuler
-<p align="left">
+<p style="float:left">
     <a href="https://projecteuler.net/">
-        <img height=85 src="https://i.imgur.com/hIs7ZR4.png">
+        <img alt="" height=85 src="https://i.imgur.com/hIs7ZR4.png">
     </a>
 </p>
 
