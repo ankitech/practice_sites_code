@@ -66,6 +66,7 @@ This repository is for all the codes i practice on different coding sites.
 | 14. | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | 10 | [GradingStudent.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/GradingStudent.java), [GradingStudentTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/GradingStudentTest.java)
 | 15. | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem) | 10 | [FlatlandSpaceStation.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/FlatlandSpaceStation.java), [FlatlandSpaceStationTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/FlatlandSpaceStation.java)
 | 16. | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) | 10 | [AppleAndOrange.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/AppleAndOrange.java), [AppleAndOrangeTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/AppleAndOrangeTest.java)
+| 17. | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | 10 | [Kangaroo.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/Kangaroo.java), [KangarooTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/KangarooTest.java)
 
 # ROSALIND
 <p align="left">
