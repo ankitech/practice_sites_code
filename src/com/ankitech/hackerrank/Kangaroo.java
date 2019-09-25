@@ -59,23 +59,9 @@ package com.ankitech.hackerrank;
 class Kangaroo {
 
     static String kangaroo(int x1, int v1, int x2, int v2) {
-        if(x1 != x2 && v1==v2){
-           return "NO";
-        }
-        else if(x1 > x2 && v1 > v2){
+        if (v1>v2&&(x2-x1)%(v1-v2)==0)
+            return "YES";
+        else
             return "NO";
-        }else if(x2 > x1 && v2 > v1){
-            return "NO";
-        }else{
-            int distance = Math.abs(x1 - x2);
-            int absoluteSpeed = Math.abs(v1 - v2);
-            if(absoluteSpeed > distance){
-                return "NO";
-            }else if(distance % absoluteSpeed == 0){
-                return "YES";
-            }else{
-                return "NO";
-            }
-        }
     }
 }
