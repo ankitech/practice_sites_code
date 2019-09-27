@@ -69,6 +69,7 @@ This repository is for all the codes i practice on different coding sites.
 | 17. | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem) | 10 | [Kangaroo.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/Kangaroo.java), [KangarooTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/KangarooTest.java)
 | 18. | [ElectronicShop](https://www.hackerrank.com/challenges/electronics-shop/problem) | 10 | [ElectronicShop.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/ElectronicShop.java), [ElectronicShopTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/ElectronicShopTest.java)
 | 19. | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem) | 10 | [CatAndMouse.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/CatAndMouse.java), [CatAndMouseTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/CatAndMouseTest.java)
+| 19. | [FizzBuzz](https://www.hackerrank.com/challenges/fizzbuzz/problem) | 10 | [FizzBuzz.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/hackerrank/FizzBuzz.java), [FizzBuzzTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/hackerrank/FizzBuzzTest.java)
 
 # ROSALIND
 <p style="float:left">
