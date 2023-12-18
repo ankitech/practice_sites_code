@@ -109,9 +109,10 @@ This repository is for all the codes i practice on different coding sites.
 
 `Package: com.ankitech.leetcode`
 
-|Sl No.| Challenge                                                                              | Points |                                                                                          Solution                                                                                         |
-|---:|:---------------------------------------------------------------------------------------|-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | [88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |      1 | [MergeSortedArray.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/leetcode/MergeSortedArray.java), [MergeSortedArrayTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/leetcode/MergeSortedArrayTest.java)
+| Sl No. | Challenge                                                                              | Points |                                                                                          Solution                                                                                         |
+|-------:|:---------------------------------------------------------------------------------------|-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     1. | [88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |      1 | [MergeSortedArray.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/leetcode/MergeSortedArray.java), [MergeSortedArrayTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/leetcode/MergeSortedArrayTest.java)
+|     2. | [27 Remove Element](https://leetcode.com/problems/remove-element/description/)     |      1 | [RemoveElement.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/leetcode/RemoveElement.java), [RemoveElementTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/leetcode/RemoveElementTest.java)
 
 # TechGig
 <p style="float:left">
