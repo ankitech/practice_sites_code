@@ -109,9 +109,9 @@ This repository is for all the codes i practice on different coding sites.
 
 `Package: com.ankitech.leetcode`
 
-|Sl No.|                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
-|---:|:--------------------------------------------------------------------------------------------------------------------------|-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. | [Dummy challenge](http://www.dummy.com/kata/54b42f9314d9229fd6000d9c/train/java) |      1 | [Dummy.java](http://www.dummy.com), [dummy1.java](http://www.dummy.com)
+|Sl No.| Challenge                                                                              | Points |                                                                                          Solution                                                                                         |
+|---:|:---------------------------------------------------------------------------------------|-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. | [88 Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) |      1 | [MergeSortedArray.java](https://github.com/ankitech/practice_sites_code/blob/master/src/com/ankitech/leetcode/MergeSortedArray.java), [MergeSortedArrayTest.java](https://github.com/ankitech/practice_sites_code/blob/master/test/com/ankitech/leetcode/MergeSortedArrayTest.java)
 
 # TechGig
 <p style="float:left">
